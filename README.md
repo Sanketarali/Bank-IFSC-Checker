@@ -19,5 +19,8 @@ streamlit run bank_ifsc_checker.py<br>
 
 The script will then open a user interface in your default browser. Enter the IFSC code of the bank you want to find information about and click the "Search" button. The information will be displayed in a dataframe.
 
+# Screenshots
+![result](https://github.com/Sanketarali/Bank-IFSC-Checker/blob/main/Screenshot%20(2338).png)
+
 # Note: 
 The data is from a third-party website, so make sure to verify the information.
