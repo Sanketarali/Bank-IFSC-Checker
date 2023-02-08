@@ -23,5 +23,4 @@ The script will then open a user interface in your default browser. Enter the IF
 ![result](https://github.com/Sanketarali/Bank-IFSC-Checker/blob/main/Screenshot%20(2338).png)
 ![result](https://github.com/Sanketarali/Bank-IFSC-Checker/blob/main/Screenshot%20(2339).png)
 
-# Note: 
-The data is from a third-party website, so make sure to verify the information.
+
